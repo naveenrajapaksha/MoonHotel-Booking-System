@@ -1,0 +1,9 @@
+Room,101,Single Room,2000,1
+Room,102,Double Room,3500,0
+Room,103,Twin Room,2300,1
+Room,104,Family Room,4000,1
+Room,105,Standard Room,3200,1
+Room,106,Deluxe Room,5800,1
+Room,107,AC Room,10000,1
+Room,108,NON-AC Room,8000,1
+Booking,piyal,102,21000,6
